@@ -1,8 +1,12 @@
 # Color Array
 
-Links do Projecto:  
-[Demo](https://nunosantoswebdesigner.github.io/nscolors)
-[Repo](https://github.com/nunosantoswebdesigner/nscolors)
+##### Links do Projecto:  
+[Demo](https://nunosantoswebdesigner.github.io/nscolors)  
+[Repo](https://github.com/nunosantoswebdesigner/nscolors)  
+
+
+##### Desc do Projecto:  
+    - Neste exemplo criei um array de cores para animar a página, também usei a biblioteca 'Mojs Player'
 
 
 ![home](https://github.com/nunosantoswebdesigner/pdfs/blob/gh-pages/images/nscolors_1.png)
